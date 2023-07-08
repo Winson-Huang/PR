@@ -1,3 +1,3 @@
 # PR
 
-edit by rebase
+can be fast-forwarded
